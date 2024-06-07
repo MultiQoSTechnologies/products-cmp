@@ -1,6 +1,6 @@
 # products-cmp
 
-This is a Compose Multiplatform project which retrives the product list from cloud using Ktor library and diplay it in a Grid listview. This App can be run on Android, iOS and Desktop.
+This is a Compose Multiplatform project which retrives the product list from cloud using Ktor library and display it in a Grid listview. This App can be run on Android, iOS and Desktop.
 
 # How to run
 Clone this repository and open in Android studio. Check the configuration for Android, iOS, and Desktop.
