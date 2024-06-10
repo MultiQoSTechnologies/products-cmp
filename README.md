@@ -12,7 +12,8 @@ Clone this repository and open in Android studio. Check the configuration for An
 
 Checkout this official [documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html#run-your-application) from jetbrains to get better understanding on how to run application
 
-# Note: As of now this project is only tested on MacOS and generated dmg file. If you want to generate exe file then you'll need windows for that.
+# Note 
+As of now this project is only tested on MacOS and generated dmg file. If you want to generate exe file then you'll need windows for that.
 
 
 # Features and technologies
