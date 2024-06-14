@@ -21,3 +21,12 @@ As of now this project is only tested on MacOS and generated dmg file. If you wa
 * Jetpack Compose Multiplatform
 * Ktor
 * Koin
+
+
+# Let Us Know
+
+For more details, visit [MultiQoS.](https://multiqos.com/)
+
+Contact us for collaboration or support:
+
+Email: biz@multiqos.com
